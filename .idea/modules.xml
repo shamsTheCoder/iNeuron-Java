@@ -3,10 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Assignment/Assignment.iml" filepath="$PROJECT_DIR$/Assignment/Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment/Patterns/AssignmentOne.iml" filepath="$PROJECT_DIR$/Assignment/Patterns/AssignmentOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataTypes/DataTypes.iml" filepath="$PROJECT_DIR$/DataTypes/DataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataTypes/Operators/Operators.iml" filepath="$PROJECT_DIR$/DataTypes/Operators/Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataTypes/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/DataTypes/Pattern/Pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Assignment/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Assignment/Patterns/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/iNeuron.iml" filepath="$PROJECT_DIR$/.idea/iNeuron.iml" />
     </modules>
   </component>

@@ -6,7 +6,7 @@ public class QuesFiveHut {
 
         for (int i = 0; i < row; i++){
             for (int j = 0; j < col; j++){
-                if (i == 0 || j == 0 || i == row - 1 || i + j <= row / 2 || i - j >= row / 2){
+                if (i == 0 || j == 0 || i == row - 1 || i + j <= row / 2 || i - j >= row / 2 - 1){
                     System.out.print("*");
                     System.out.print(" ");
                 }else
